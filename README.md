@@ -1,4 +1,5 @@
 # Interiors-By-You
+You can read about this project in report.pdf where you'll also find a demo video for the application.
 ## How to use
 Before we could use the web app, we need to setup the environment and servers for it.
 1) <b>Setting up the Flask server :</b>   
